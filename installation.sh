@@ -4,9 +4,9 @@
 
 # update and upgrade before installation
 
-#sudo apt-get update
+sudo apt-get update
 
-#sudo apt-get upgrade
+sudo apt-get upgrade
 
 mkdir lighting
 
